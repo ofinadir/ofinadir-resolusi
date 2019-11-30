@@ -1,0 +1,3 @@
+OFINADIR RESOLUSI
+- Konsisten untuk belajar pemrograman web
+- Mempelajari Fundamental
