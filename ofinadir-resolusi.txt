@@ -1,4 +1,4 @@
 OFINADIR RESOLUSI
 - Konsisten untuk belajar pemrograman web
 - Mempelajari Fundamental
-- Mebuat aplikasi website absensi
+- Mempelajari Front End
