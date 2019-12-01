@@ -1,4 +1,5 @@
 OFINADIR RESOLUSI
 - Konsisten untuk belajar pemrograman web
+- Belajar GIT & GITHUB
 - Mempelajari Fundamental
 - Mempelajari Front End
