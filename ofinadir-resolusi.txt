@@ -1,5 +1,4 @@
-OFINADIR RESOLUSI
+OFINADIR RESOLUSI - 2021-2022
 - Konsisten untuk belajar pemrograman web
-- Belajar GIT & GITHUB
-- Mempelajari Fundamental
-- Mempelajari Front End
+- Improve Bahasa pemrograman lainnya
+- Menyelesaikan kelas Menjadi Front-End Web Developer Expert di Dicoding
